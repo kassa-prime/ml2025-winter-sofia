@@ -8,7 +8,7 @@ You may install with
 pip install -r requirements.txt
 ```
 
-Or if you prefer uv:
+Or if you prefer [uv](https://docs.astral.sh/uv/):
 ```shell
 uv pip install -r requirements.txt
 ```
