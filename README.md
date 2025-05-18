@@ -1,8 +1,10 @@
 # ml2025-winter-sofia
 
-## Requirements
+### Requirements
 - numpy
 
+
+### Install
 You may install with 
 ```shell
 pip install -r requirements.txt
